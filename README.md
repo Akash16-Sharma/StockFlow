@@ -10,8 +10,8 @@ It helps you track stock levels, low inventory, and expiring products in a clean
 
 (Add links after deployment)
 
-App: https://your-domain.com  
-Repository: https://github.com/your-username/stockflow
+App: https://stock-flow-mauve.vercel.app/
+Repository: https://github.com/Akash16-Sharma/stockflow
 
 ---
 
